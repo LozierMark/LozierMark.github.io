@@ -1,5 +1,5 @@
 .bg-image {
-    background: url(./assets/birdeye.jpg);
+    background: url("./assets/birdeye.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
