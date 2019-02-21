@@ -7,3 +7,6 @@
 @import "contact.css";
 @import "footer.css";
 
+#button {
+    color: black
+}
